@@ -1,6 +1,6 @@
 {
   "name": "mastodon-connector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Connect to several Mastodon-API-servers from a config-file.",
   "main": "src/main.js",
   "scripts": {
