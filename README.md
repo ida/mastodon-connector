@@ -42,19 +42,19 @@ Provide a config-file in JSON-format with this structure:
 
     [
         {
-            "server": "social.tchncs.de",
+            "server": "https://social.tchncs.de",
             "username": "you@example.org",
             "password": "yourSuperSecretPassword"
         }
       ,
         {
-            "server": "social.nasqueron.de",
+            "server": "https://social.nasqueron.de",
             "username": "you@example.org",
             "access_token": "092u37eg26bet2g2z2bv2tr1fwz2dkdu3zi7rd02i2jgslw9"
         }
       ,
         {
-            "server": "social.example.com",
+            "server": "https://social.example.com",
             "username": "anotherYou@example.org",
             "access_token": "arbitraryNonEmptyStringForUsingPublicApiFuncs"
         }
